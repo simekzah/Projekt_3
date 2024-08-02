@@ -25,3 +25,5 @@ python projekt3.py " https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumn
 
 
 Snímek části výstupu:
+
+![csvpro proj](https://github.com/user-attachments/assets/964b724a-b3ad-4df9-b6e4-4312612edc7a)
